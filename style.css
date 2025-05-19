@@ -4,6 +4,7 @@
 }
 body {
   background-color: #F7F7FF;
+  width: 700px;
 }
 div {
     text-align: center;
@@ -16,6 +17,7 @@ div {
 }
 .d0 {
     border: 1px solid #222;
+    width: 320px;
 }
 .d1 {
     border: 2px dashed #222;
@@ -24,4 +26,7 @@ div {
 .d2 {
     border: #222;
    
+}
+.he {
+    text-align: center;
 }
