@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;700&display=swap');
+.p {
+    font-family: Exo 2;
+}
+body {
+  background-color: #F7F7FF;
+}
+div {
+    text-align: center;
+    border: ;
+    border-radius: 16px;
+    display: inline-block; 
+    width: 200px; /* Фиксированная ширина блока */
+    font-size: 16px; /* Возвращаем размер шрифта */
+
+}
+.d0 {
+    border: 1px solid #222;
+}
+.d1 {
+    border: 2px dashed #222;
+    width: 320px;
+}
+.d2 {
+    border: #222;
+   
+}
