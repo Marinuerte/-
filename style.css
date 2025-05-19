@@ -8,7 +8,7 @@ body {
 }
 div {
     text-align: center;
-    border: ;
+    border: 1px solid #222;
     border-radius: 16px;
     display: inline-block; 
     width: 200px; /* Фиксированная ширина блока */
@@ -18,7 +18,12 @@ div {
 .d0 {
     border: 1px solid #222;
     width: 320px;
+    
 }
+.uu {
+    text-align: left;
+}
+
 .d1 {
     border: 2px dashed #222;
     width: 320px;
