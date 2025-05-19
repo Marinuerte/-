@@ -7,17 +7,16 @@ body {
   width: 700px;
 }
 div {
-    text-align: center;
-    border: 1px solid #222;
-    border-radius: 16px;
+    text-align: center;   
     display: inline-block; 
     width: 200px; /* Фиксированная ширина блока */
     font-size: 16px; /* Возвращаем размер шрифта */
-
+   
 }
 .d0 {
     border: 1px solid #222;
     width: 320px;
+    border-radius: 16px;
     
 }
 .uu {
@@ -27,10 +26,10 @@ div {
 .d1 {
     border: 2px dashed #222;
     width: 320px;
+    border-radius: 16px;
 }
-.d2 {
-    border: #222;
-   
+.uu2 {
+    text-align: left;
 }
 .he {
     text-align: center;
